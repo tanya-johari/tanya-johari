@@ -2,7 +2,7 @@
 
 - :mortar_board: I am currently pursuing MCA from GGSIPU, New Delhi.
 - 💬 Brainstorm with me over tech, algorithms, career, and music.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/tanya-johari)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/tanya-johari/" target="_blank">LinkedIn</a>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Internet users blink less than usual.
 
