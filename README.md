@@ -1,4 +1,4 @@
-# Hi there, I am [Tanya](github.com/tanya-johari) 👋
+# Hi there, I am <a href="https://www.github.com/tanya-johari/" target="_blank">Tanya</a> 👋
 
 - :mortar_board: I am currently pursuing MCA from GGSIPU, New Delhi.
 - 💬 Brainstorm with me over tech, algorithms, career, and music.
