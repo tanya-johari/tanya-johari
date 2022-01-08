@@ -1,9 +1,9 @@
 # Hi there, I am <a href="https://www.github.com/tanya-johari/" target="_blank">Tanya</a> 👋
 
 - :mortar_board: I am currently pursuing MCA from GGSIPU, New Delhi.
+- 😄 Pronouns: She/Her
 - 💬 Brainstorm with me over tech, algorithms, career, and music.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/tanya-johari/" target="_blank">LinkedIn</a>
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Internet users blink less than usual.
 
 ---
