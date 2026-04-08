@@ -1,17 +1,45 @@
-# Hi there, I am <a href="https://www.github.com/tanya-johari/" target="_blank">Tanya</a> 👋
+# Hi there, I'm Tanya 👋
 
-- 😄 Pronouns: She/Her
-- 💬 Brainstorm with me over tech, algorithms, career, and music.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/tanya-johari/" target="_blank">LinkedIn</a>
-- ⚡ Fun fact: Internet users blink less than usual.
+😄 Pronouns: She/Her
+&nbsp;·&nbsp;
+💬 Brainstorm with me on tech, algorithms, career, or music
+&nbsp;·&nbsp;
+📍 India
 
 ---
 
-🧰 Tech Stack
+### About me
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++ Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5 Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js Logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma Logo" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python3" width="50" height="50"/>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="50" height="50"/>
-<img src="https://www.liblogo.com/img-logo/dj3164d344-django-logo-django-logo-png-transparent-amp-svg-vector-freebie-supply.png" alt="django" width="50" height="50"/>
-<img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="reactjs" width="50" height="50"/>
+I'm a **Full Stack Developer**. I care about clean architecture, meaningful software, and growing as a developer.
+
 ---
+
+### 🛠 Current Stack
+
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-%23005571.svg?style=flat)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonwebservices&logoColor=white)
+
+---
+
+### 🧰 Also worked with
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 📬 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanya-johari)
+
+⚡ Fun fact: Internet users blink less than usual.
